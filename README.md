@@ -39,4 +39,4 @@ Contributions are encouraged! Whether it's bug fixes, new features, or improveme
 - <b>Code Contributions:</b> Submit patches, improvements, or new features.
 
 ## License
-This software is licensed under the MIT license. See [LICENSE]() file for more details
+This software is licensed under the MIT license. See [LICENSE](https://github.com/Champoe/helmetDetection/blob/main/LICENSE) file for more details
